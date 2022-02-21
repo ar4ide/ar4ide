@@ -1,1 +1,1 @@
-<img src="./assets/logo.svg" width="564" alt="Artjom Gumenyuk">
+<img src="./assets/logo.svg" width="625" alt="Artjom Gumenyuk">
